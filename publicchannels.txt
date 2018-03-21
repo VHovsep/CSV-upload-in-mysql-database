@@ -1,0 +1,19 @@
+channel/get_channel
+	page-int
+	limit-int
+channel/get_channel_genre
+	aranc parametr
+channel/get_channel_in_genre
+	id-int ______________ (genre id)
+channel/get_channel_epg
+	id-int _______________ (channel id)
+channel/get_channel_epg_settings
+	aranc parametr
+channel/get_channel_info
+	id-int _______________ (channel id)
+channel/get_channel_url
+	id-int _______________ (channel id)
+channel/get_channel_epg_3
+	id-int _______________ (channel id)
+channel/get_channel_curr_epg
+	id-int _______________ (channel id)
